@@ -20,7 +20,7 @@ const alistPublicAddr = "http://youralist.com:5244";
 const cilentSelfAlistRule = [
   // [2, "xxx", alistPublicAddr],
 ];
-// url映射,会在xxxMountPath之后全部替换一遍,不要有重叠
+// 路径映射,会在xxxMountPath之后全部替换一遍,不要有重叠,此处会同时处理本地路径和strm的内部内容
 const plexPathMapping = [
   // ["/mnt/aliyun-01", "/mnt/aliyun-02"],
   // ["http:", "https:"], 
