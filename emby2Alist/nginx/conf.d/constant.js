@@ -129,12 +129,6 @@ const transcodeConfig = {
       host: "http://yourdomain.com:8097",
       apiKey: "CHANGE_ME",
     },
-    // plex 和 weight 参数暂未实现,很难
-    // {
-    //   type: "plex",
-    //   host: "http://yourdomain.com:32400",
-    //   apiKey: "CHANGE_ME",
-    // },
   ]
 };
 // 图片缓存策略,包括主页、详情页、图片库的原图,路由器 nginx 请手动调小 conf 中 proxy_cache_path 的 max_size
