@@ -1,0 +1,13 @@
+{
+  "repository": "LiangLiang723/embyExternalUrl",
+  "verified_objects": 3685,
+  "changed_refs": [
+    "refs/heads/feat/plex-clients-cache-part",
+    "refs/heads/feat/plex-server-cache-part",
+    "refs/heads/main",
+    "refs/heads/privacy-cleanup-20261030",
+    "refs/heads/upstream"
+  ],
+  "encrypted_backup_sha256": "57aa9f8f0fed6121c7482a463ed9676e6c9a9f42f24b958e87bc9149fd0e2e76",
+  "published": false
+}
